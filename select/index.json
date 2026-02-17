@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Imagination",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-02-17T13:52:02.488280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just My Imagination",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/01_Just_My_Imagination_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just My Imagination (prod. Big",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/02_Just_My_Imagination_(prod._Big_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Imagination",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/03_No_Imagination_Blondie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MY IMAGINATION 상상",
+      "artist": "Yaeji",
+      "has_synced": true,
+      "path": "select/04_MY_IMAGINATION_상상_Yaeji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Imagination",
+      "artist": "Miami Horror",
+      "has_synced": true,
+      "path": "select/05_Imagination_Miami_Horror.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Imagination",
+      "artist": "Majid Jordan feat. dvsn",
+      "has_synced": true,
+      "path": "select/06_My_Imagination_Majid_Jordan_feat._dvsn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Imagination (feat. dvsn)",
+      "artist": "Majid Jordan",
+      "has_synced": true,
+      "path": "select/07_My_Imagination_(feat._dvsn)_Majid_Jordan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Her Imagination",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/08_Her_Imagination_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Imagination (dance mix)",
+      "artist": "Belouis Some",
+      "has_synced": false,
+      "path": "select/09_Imagination_(dance_mix)_Belouis_Some.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Must Be Imagination",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/10_It_Must_Be_Imagination_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Must Be Imagination (Album Version)",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/11_It_Must_Be_Imagination_(Album_Version)_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Imagination",
+      "artist": "Clan of Xymox",
+      "has_synced": true,
+      "path": "select/12_Imagination_Clan_of_Xymox.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Animal Imagination",
+      "artist": "Glass Candy",
+      "has_synced": true,
+      "path": "select/13_Animal_Imagination_Glass_Candy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just My Imagination",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/14_Just_My_Imagination_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just My Imagination",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/15_Just_My_Imagination_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pure Imagination",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/16_Pure_Imagination_Charles_Hamilton.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Imagination",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_Imagination_SPYAIR.txt"
+    }
+  ]
+}
